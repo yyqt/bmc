@@ -15,3 +15,5 @@
 51 20 * * * python /root/bmc/poweroff.py # 20:51 软关机调两次
 0 21 * * * python /root/bmc/relayoff.py  #21:00 关闭继电器，彻底断电，静音
 
+
+
